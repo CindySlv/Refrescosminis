@@ -1,0 +1,17 @@
+body{
+    font-family: fantasy;
+}
+
+    nav ul {
+        border: 1px solid #FF4500;
+        list-style: none;
+    }
+    
+    li {
+        text-align: center;
+        border-bottom: 1px solid #FFFF00;
+    }
+    
+    li:last-child {
+        border-bottom: none;
+    }
